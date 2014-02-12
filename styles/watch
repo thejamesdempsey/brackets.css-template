@@ -6,6 +6,6 @@
 # No minification
 #sass --watch style.scss:style.css --style expanded  --precision 7
 
-sass --watch styles/style.scss:style.min.css --style compressed  --precision 7
+sass --watch style.scss:style.css --style compressed  --precision 7
 
 exit 0
