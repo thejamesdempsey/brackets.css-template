@@ -1,0 +1,3 @@
+[submodule "styles/brackets.css"]
+	path = styles/brackets.css
+	url = https://github.com/thejamesdempsey/brackets.css.git
