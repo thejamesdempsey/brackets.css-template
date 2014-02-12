@@ -10,6 +10,6 @@ git add styles/brackets.css       && \
 git add .gitmodules               && \
 rm go
 
-echo "New brackets.css project successfully installed"
-
+echo "New brackets.css project successfully installed" 
+&& \	
 git status
